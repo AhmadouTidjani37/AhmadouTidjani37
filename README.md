@@ -1,5 +1,5 @@
 - 👋 Salut, Je suis Ahmadou Tidjani
-- 👀 Je suis intéressé par le développement mobile avec Flutter
+- 👀 Je suis intéressé par le développement mobile et web
 
 
 <!---
