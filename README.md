@@ -1,5 +1,5 @@
 - 👋 Salut, Je suis Ahmadou Tidjani
-- 👀 Je suis intéressé par la sécurité informatique et le developpement d'application mobile et site web interactive. 
+- 👀 Je suis intéressé par la cybersécurité et le developpement mobile et web. 
 
 
 <!---
